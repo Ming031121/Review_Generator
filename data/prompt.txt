@@ -1,0 +1,37 @@
+Given a restaurant review, summarize it to simulate user input as a quick thought.
+
+## The summarized user quick thought should satisfy the following points:
+- Be concise, like a quick thought someone might share.
+- Accurately reflect the original user's main idea or sentiment.
+- Do not introduce new ideas or alter the user's original intent.
+- If provided, the following key features should be kept but simplified: dishes (with more descriptive details), tastes, vibe, environment, services, sentiment, suggestion.
+- Keep numeric data.
+- Can be in the format of short phrases or simple sentences, such as:
+  - "Good vibe."
+  - "Will come back."
+  - "Friendly staff."
+
+## Process:
+- Extract the key points.
+- Treat each key point as a sentence. Append the sentences.
+
+## Example:
+
+### Input review:
+"I absolutely love this place!!!! 5/5 nothing bad to say.
+
+My friend and I came to PAI on a Friday night with no reservation after seeing all their reservations were booked up. We still went to take our chances with walk in around 7pm and we got a table within 15 mins! It was super busy yet they were still able to seat many of us who walked in.
+
+The place upon entrance looks small but it is MASSIVE inside. The vibes are so good with the decor and the lighting. We both only wanted a main as we needed to leave pretty quickly. Service was super fast and friendly.
+
+Food:
+- Pad Thai with Beef (no chives): 5/5 stars. I was absolutely starving and this was phenomenal. It was not too sweet or sour. It was perfect. Texture was great and portions were pretty big. I could've taken some home if I wanted to but was too hungry.
+
+As we were in a rush, we were able to leave within 45 mins of being there. 5/5!!! Would recommend even if you don't have a reso"
+
+### Output quick thought:
+"Love this place. Great vibe. Fast service. Amazing Pad Thai with balanced taste and great texture. Walked in on a busy night and seated fast in 15 min. Can finish in 45 min. Recommended. Would rate 5/5."
+
+## Notes
+- Keep it simple.
+- Prefer short phrases that are more descriptive of the dishes mentioned.
