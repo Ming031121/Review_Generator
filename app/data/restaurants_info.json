@@ -1,0 +1,723 @@
+[
+  {
+    "restaurant_name": "Gyubee Japanese Grill",
+    "location": "Markham, Ontario",
+    "cuisine": [
+      "Asian",
+      "Barbecue",
+      "Korean"
+    ],
+    "popular_dishes": [
+      "Kalbi",
+      "Short ribs",
+      "Sausage",
+      "Shrimp",
+      "Miso marinated prime rib steak",
+      "Lamb",
+      "Steamed clams in sake and garlic butter"
+    ],
+    "experience": [
+      "All-you-can-eat Japanese barbecue with grills at each table",
+      "Reservations recommended, especially on weekends",
+      "Casual atmosphere with friendly and attentive staff",
+      "Serves alcohol",
+      "Table service"
+    ],
+    "common_reviews": [
+      "Great variety of meats, well-marinated and tasty",
+      "Generally efficient and attentive service",
+      "Some complaints about payment policies and mandatory gratuity",
+      "Some guests highlighted exceptional servers like Alex and Eric"
+    ]
+  },
+  {
+    "restaurant_name": "Trattoria Nervosa",
+    "location": "Yorkville, Toronto",
+    "cuisine": [
+      "Italian",
+      "Pizza",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Kale salad",
+      "Pasta with red sauce and shrimp",
+      "Mafalde ai Funghi",
+      "Spicy shrimp pasta",
+      "Risotto Nervosa with beef short rib",
+      "Prosciutto and arugula pizza",
+      "Branzino",
+      "Desserts"
+    ],
+    "experience": [
+      "Cozy and friendly neighborhood dining experience",
+      "First-come, first-served",
+      "Delivery available",
+      "Takeout available",
+      "Reservations available",
+      "Outdoor seating",
+      "Alcohol service",
+      "Free WiFi"
+    ],
+    "common_reviews": [
+      "Food quality is generally good",
+      "Some negative feedback about service and hostess behavior",
+      "Pricing seen as reasonable by some and expensive by others",
+      "Takeout portion sizes were criticized by some"
+    ]
+  },
+  {
+    "restaurant_name": "Le Paradis Brasserie-Bistro",
+    "location": "Toronto",
+    "cuisine": [
+      "French",
+      "European",
+      "Vegetarian-friendly",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Cassoulet",
+      "Duck confit",
+      "Steak frites",
+      "Mussels",
+      "Escargot",
+      "Pates and charcuterie",
+      "Steak tartare",
+      "Moroccan shrimp",
+      "Rock hen",
+      "Beet salad",
+      "Blue cheese salad",
+      "Rainbow trout",
+      "Lemon tart"
+    ],
+    "experience": [
+      "Consistent quality and value",
+      "Casual atmosphere despite upscale menu",
+      "Full bar with wine and beer",
+      "Reservations recommended",
+      "Outdoor seating and patio",
+      "Family-friendly and dog-friendly"
+    ],
+    "common_reviews": [
+      "Generally positive reviews",
+      "Some criticism about service quality",
+      "Some complaints about noise levels",
+      "Praised for charming service and reasonable pricing"
+    ]
+  },
+  {
+    "restaurant_name": "Aux Merveilleux De Fred",
+    "location": "224 Queen St W, Toronto, Ontario M5V 1Z6, Canada",
+    "cuisine": [
+      "French bakery"
+    ],
+    "popular_dishes": [
+      "The Incredible",
+      "Chocolate Cramik Brioche",
+      "Vergeoise Waffle",
+      "Chocolate croissant",
+      "Brioche pepite de chocolat"
+    ],
+    "experience": [
+      "Clean shop",
+      "Excellent customer service",
+      "Comfortable spot for relaxation",
+      "Dine-in or takeaway"
+    ],
+    "common_reviews": [
+      "Exceptional pastries",
+      "Chocolate cramik brioche and meringue treats are especially popular",
+      "Mixed reviews on croissants compared with other Toronto bakeries"
+    ]
+  },
+  {
+    "restaurant_name": "Canoe Restaurant & Bar",
+    "location": "54th floor of the TD Bank Tower, Toronto",
+    "cuisine": [
+      "International",
+      "Contemporary",
+      "Canadian",
+      "Vegetarian options",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "S'mores foie gras",
+      "Gin cured duck breast",
+      "Salmon with squid stuffed with short rib",
+      "Bluefish tuna tartare",
+      "Salmon confit",
+      "Beef tartare",
+      "9-course tasting menu",
+      "Cornish game hen",
+      "Braised lamb shoulder",
+      "Elk loin",
+      "Duck"
+    ],
+    "experience": [
+      "Breathtaking views of Toronto and the CN Tower",
+      "Modern and stylish interior",
+      "Sophisticated atmosphere",
+      "Fine dining",
+      "Private dining options",
+      "Lunch, dinner, and late-night meals",
+      "Full bar",
+      "Reservations and wheelchair accessibility"
+    ],
+    "common_reviews": [
+      "Attentive and knowledgeable service",
+      "Scenic views are a major highlight",
+      "Some mention occasional lapses in service",
+      "High expectations are not always met"
+    ]
+  },
+  {
+    "restaurant_name": "Maya Bay Thai Restaurant",
+    "location": "252 Carlton St, Toronto, Ontario M5A 2L1, Canada",
+    "cuisine": [
+      "Asian",
+      "Thai"
+    ],
+    "popular_dishes": [
+      "Salmon Lui Suan Salad",
+      "Khao Soi Beef",
+      "Salted Egg Yolk Fries",
+      "Chilli & Salt Crispy Pork Belly",
+      "Smoked Chilli Shrimps with Rice and Scrambled Egg",
+      "Striploin Steak on Rice with Jim Jaew",
+      "Karee Soft Shell Crab",
+      "Tom Yum Linguine",
+      "Moo Hong",
+      "Coconut and honeydew shaved ice",
+      "Mango cheesecake"
+    ],
+    "experience": [
+      "Open daily with varying hours",
+      "Recognized with a Travelers' Choice award",
+      "Small review count but very high rating"
+    ],
+    "common_reviews": [
+      "Unique and creative Thai dishes",
+      "Fresh flavors and strong presentation",
+      "Salted egg yolk fries and Khao Soi are highly praised"
+    ]
+  },
+  {
+    "restaurant_name": "Gyugyuya",
+    "location": "177 Dundas St W, Old Toronto, Ontario, Canada",
+    "cuisine": [
+      "Japanese",
+      "Asian"
+    ],
+    "popular_dishes": [
+      "Japanese Curry",
+      "Chicken Curry",
+      "Pork Curry",
+      "Shrimp Curry",
+      "Chicken Katsu Curry Bowl",
+      "Chicken Karage Curry Bowl",
+      "Gyu Curry Bowl",
+      "King Curry"
+    ],
+    "experience": [
+      "Lunch and dinner",
+      "Budget-friendly",
+      "Seating available",
+      "Table service",
+      "Takeout options",
+      "Quick and friendly service",
+      "Small and often busy setting"
+    ],
+    "common_reviews": [
+      "Delicious curry flavors",
+      "Large and tasty portions",
+      "Fast service",
+      "One review mentioned undercooked chicken and poor customer service",
+      "Curry is mild in spice but flavorful"
+    ]
+  },
+  {
+    "restaurant_name": "Gyubee",
+    "location": "335 Bloor St W, Toronto, Ontario M5S 1W7, Canada",
+    "cuisine": [
+      "Japanese",
+      "Barbecue",
+      "Asian"
+    ],
+    "popular_dishes": [
+      "Prime steak",
+      "Sausage",
+      "Briskets",
+      "Garlic shrimp",
+      "Creme brulee",
+      "Melona bars",
+      "Kalbi",
+      "Pumpkin soup"
+    ],
+    "experience": [
+      "All-you-can-eat grill-your-own-meat restaurant",
+      "Hands-on cooking experience",
+      "Lively and friendly atmosphere",
+      "Set price with a 2-hour limit",
+      "Reservations available",
+      "Wheelchair accessible",
+      "Table service"
+    ],
+    "common_reviews": [
+      "Quality of meat and vegetables is praised",
+      "Recommended for meat lovers",
+      "Attentive and friendly staff",
+      "Potential waiting time even with reservations",
+      "Payment restrictions are mentioned"
+    ]
+  },
+  {
+    "restaurant_name": "Dear Saigon",
+    "location": "5588 Yonge St, North York, ON M2N 5S2, Canada",
+    "cuisine": [
+      "Vietnamese"
+    ],
+    "popular_dishes": [
+      "Pho noodle soup",
+      "Vermicelli",
+      "Satay noodles",
+      "Shareable appetizers",
+      "Vietnamese coffee"
+    ],
+    "experience": [
+      "Traditional Vietnamese flavors",
+      "Premium natural ingredients",
+      "Bone broth boiled for six hours",
+      "Grand opening at a new location in North York",
+      "Community engagement through social media and giveaways",
+      "Open Thursday to Sunday"
+    ],
+    "common_reviews": [
+      "Authentic Vietnamese cuisine",
+      "Aims to evoke memories of Saigon",
+      "Broth and ingredient quality are emphasized"
+    ]
+  },
+  {
+    "restaurant_name": "Mercatto",
+    "location": "101 College St, Toronto, Ontario",
+    "cuisine": [
+      "Italian",
+      "Pizza",
+      "Wine Bar",
+      "Vegetarian-friendly",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Margherita Pizza",
+      "Pappardelle",
+      "Orecchiette Pugliese",
+      "Carciofi",
+      "Shrimp Salad",
+      "Gnocchi",
+      "Strawberry Cheesecake",
+      "Tiramisu"
+    ],
+    "experience": [
+      "Lunch and dinner",
+      "Takeout",
+      "Reservations",
+      "Outdoor seating",
+      "Street parking",
+      "Wheelchair accessible",
+      "Serves alcohol",
+      "Full bar",
+      "Digital payments",
+      "Free WiFi",
+      "Table service",
+      "Popular with locals near U of T and MaRS"
+    ],
+    "common_reviews": [
+      "Pleasant atmosphere",
+      "Good food and desserts",
+      "Popular nearby lunch or dinner option"
+    ]
+  },
+  {
+    "restaurant_name": "Pig Out BBQ",
+    "location": "650 Spadina Ave, Old Toronto",
+    "cuisine": [
+      "American",
+      "Bar",
+      "Barbecue",
+      "Pub",
+      "Canadian"
+    ],
+    "popular_dishes": [
+      "Ribs",
+      "Chicken",
+      "Brisket",
+      "Pulled pork",
+      "Pulled pork poutine",
+      "Mac and cheese",
+      "Cornbread",
+      "Coleslaw"
+    ],
+    "experience": [
+      "Lunch and dinner",
+      "Takeout",
+      "Seating",
+      "Small casual restaurant",
+      "Cozy feel",
+      "Order at the counter and food is brought to the table"
+    ],
+    "common_reviews": [
+      "Tasty BBQ",
+      "Generous portions",
+      "Friendly and accommodating service",
+      "Some criticisms of dry ribs and fatty brisket"
+    ]
+  },
+  {
+    "restaurant_name": "Gusto 101",
+    "location": "101 Portland St, Toronto, Ontario M5V 2N3, Canada",
+    "cuisine": [
+      "Italian",
+      "Pizza",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Mafalde ai Funghi",
+      "Diavola Pizza",
+      "Mushroom Bruschetta",
+      "Truffle Mushroom Pasta",
+      "Burrata appetizer",
+      "Chocolate Cake",
+      "Tiramisu"
+    ],
+    "experience": [
+      "Lunch, dinner, brunch, and drinks",
+      "Delivery and takeout",
+      "Reservations",
+      "Outdoor seating",
+      "Private dining",
+      "Wheelchair accessibility",
+      "Full bar",
+      "Free WiFi",
+      "Accepts major credit cards",
+      "Industrial modern interior",
+      "Cozy vibrant atmosphere"
+    ],
+    "common_reviews": [
+      "Food quality and ambiance are generally praised",
+      "Mixed reviews on service",
+      "Possible long wait times",
+      "Some guests felt rushed due to dining time limits"
+    ]
+  },
+  {
+    "restaurant_name": "Lee Restaurant",
+    "location": "497 Richmond St W, Toronto, Ontario, Canada",
+    "cuisine": [
+      "Asian",
+      "Contemporary",
+      "Southeast Asian",
+      "French",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Singaporean-style slaw",
+      "Cheeseburger spring rolls",
+      "Tempura tuna",
+      "Top Chef curry roasted chicken",
+      "Braised beef",
+      "Pad Thai",
+      "French and Chinese Tong Yuen"
+    ],
+    "experience": [
+      "Dinner and drinks",
+      "Takeout",
+      "Outdoor seating",
+      "Private dining",
+      "Full bar",
+      "Free WiFi",
+      "Gift cards",
+      "Lively atmosphere"
+    ],
+    "common_reviews": [
+      "Signature slaw is consistently praised",
+      "Service quality varies",
+      "Can be noisy on busy nights",
+      "Some dishes receive mixed reviews"
+    ]
+  },
+  {
+    "restaurant_name": "Chubby's Jamaican Kitchen",
+    "location": "104 Portland St, Toronto, Ontario M5V 2N2, Canada",
+    "cuisine": [
+      "Caribbean",
+      "Jamaican",
+      "Vegetarian-friendly",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Pepper shrimp",
+      "Jerk chicken",
+      "Turkey patties",
+      "Vegetable patties",
+      "Saltfish fritters",
+      "Oxtail",
+      "Goat curry and rice",
+      "Jerk pork",
+      "Rum punch",
+      "Red Stripe",
+      "Jamaican mule",
+      "Ginger beer"
+    ],
+    "experience": [
+      "Lunch, dinner, brunch, and drinks",
+      "Takeout",
+      "Reservations",
+      "Outdoor seating",
+      "Serves alcohol",
+      "Full bar",
+      "Accepts credit cards",
+      "Table service",
+      "Lively tropical-themed decor",
+      "Two-level venue in a refurbished old house"
+    ],
+    "common_reviews": [
+      "Pepper shrimp and jerk chicken are highly praised",
+      "Atmosphere is lively and immersive",
+      "Oxtail reviews are mixed"
+    ]
+  },
+  {
+    "restaurant_name": "Kiin",
+    "location": "Toronto",
+    "cuisine": [
+      "Asian",
+      "Thai",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Royal Thai dumplings",
+      "Pomelo salad",
+      "Khao Yum salad",
+      "Beef short rib in peanut curry sauce",
+      "Sea bream roasted in banana leaf",
+      "Taro cake with coconut ice cream",
+      "Colored rice salads",
+      "Homemade green noodles"
+    ],
+    "experience": [
+      "Upscale dining",
+      "Tasting menus from $80+",
+      "Full bar",
+      "Reservations recommended",
+      "Good for special occasions",
+      "Cozy and beautiful setting",
+      "Near the theater district",
+      "Can be busy and noisy"
+    ],
+    "common_reviews": [
+      "Attentive and informed service",
+      "Beautiful presentation",
+      "Great for celebrations",
+      "Some guests experienced occasional service issues"
+    ]
+  },
+  {
+    "restaurant_name": "Byblos Toronto",
+    "location": "11 Duncan St, Toronto, Ontario M5V 3M2, Canada",
+    "cuisine": [
+      "Lebanese",
+      "Mediterranean",
+      "Middle Eastern",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Turkish Manti Dumplings",
+      "Wagyu Beef Kofta",
+      "Beef Tartare",
+      "Short Rib Kebab",
+      "Lamb Shoulder",
+      "Hummus Royale",
+      "Roasted Cauliflower",
+      "Sweet Jeweled Rice",
+      "Black Truffle Pide",
+      "Fried Eggplant",
+      "Pomegranate Sorbet",
+      "Chocolate Olive Oil Cake"
+    ],
+    "experience": [
+      "Reservations",
+      "Seating",
+      "Serves alcohol",
+      "Full bar",
+      "Free WiFi",
+      "Accepts credit cards",
+      "Table service",
+      "Art deco appeal",
+      "Cozy and dimly lit atmosphere"
+    ],
+    "common_reviews": [
+      "Stylish ambiance",
+      "Popular dishes are widely praised",
+      "Cocktails are a highlight"
+    ]
+  },
+  {
+    "restaurant_name": "Aloette",
+    "location": "163 Spadina Ave. 1st Floor, Toronto, ON M5V 2A5, Canada",
+    "cuisine": [
+      "Contemporary",
+      "Pub",
+      "Gastropub",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Aloette Burger",
+      "Lemon Meringue Pie",
+      "Mushroom salad",
+      "Thai salad",
+      "Pork belly",
+      "Braised beef",
+      "Miso cod",
+      "Fried chicken with lettuce wraps",
+      "Tomato and mozzarella salad",
+      "Hamachi crudo",
+      "Cheeseburger and fries"
+    ],
+    "experience": [
+      "Michelin-recommended",
+      "Suitable for special occasions",
+      "Lunch and dinner",
+      "Weekend brunch",
+      "Full bar",
+      "Table service",
+      "Stylish and cozy bistro"
+    ],
+    "common_reviews": [
+      "Food quality is generally praised",
+      "Creative dishes",
+      "Mixed reviews on value",
+      "Complaints about loud music, crowding, and reservation inconsistencies"
+    ]
+  },
+  {
+    "restaurant_name": "Rasa",
+    "location": "196 Robert St, Entrance on Harbord Street, Toronto, Ontario M5S 2K7 Canada",
+    "cuisine": [
+      "International",
+      "Vegetarian-friendly",
+      "Vegan options",
+      "Gluten-free options"
+    ],
+    "popular_dishes": [
+      "Brisket",
+      "Ceviche",
+      "Kale chickpea grape and tomato salad",
+      "Spicy ceviche",
+      "Truffle Nudi",
+      "Seared halibut",
+      "Spiced duck confit",
+      "Key lime bars",
+      "Rasa Burger",
+      "Tomato toast",
+      "Tuna tartare",
+      "Grilled octopus",
+      "Lamb dumplings",
+      "Pea pappardelle"
+    ],
+    "experience": [
+      "Dinner, brunch, and drinks",
+      "Tapas-style sharing menu",
+      "Reservations recommended",
+      "Outdoor seating",
+      "Full bar",
+      "Craft cocktails",
+      "Live music",
+      "Cozy yet stylish rustic interior"
+    ],
+    "common_reviews": [
+      "Excellent service",
+      "Creative flavor and presentation",
+      "Friendly and knowledgeable staff",
+      "Some feedback that portion sizes are small"
+    ]
+  },
+  {
+    "restaurant_name": "Jin Dal Lae",
+    "location": "647 Bloor St W, Toronto",
+    "cuisine": [
+      "Asian",
+      "Korean"
+    ],
+    "popular_dishes": [
+      "Beef Bulgogi Hot Plate",
+      "Rib Hot Plate",
+      "Scorched Rice Seafood Stew",
+      "Bibimbap",
+      "Gamjatang Jeongol",
+      "Wang Galbi",
+      "Kimchi Jeon",
+      "Kimchi Jjigae",
+      "Marinated Korean Beef BBQ"
+    ],
+    "experience": [
+      "Family-friendly atmosphere",
+      "Reasonable prices",
+      "Small restaurant",
+      "Possible long wait times"
+    ],
+    "common_reviews": [
+      "Food taste and portion sizes are generally valued",
+      "Service efficiency opinions are mixed",
+      "Long lines for popular dishes",
+      "Some criticism of Wang Galbi and certain kimchi dishes"
+    ]
+  },
+  {
+    "restaurant_name": "Seven Lives Tacos y Mariscos",
+    "location": "72 Kensington Ave, Toronto, Ontario, M5T 2K2, Canada",
+    "cuisine": [
+      "Mexican",
+      "Latin",
+      "Fast Food",
+      "Contemporary",
+      "Vegetarian-friendly"
+    ],
+    "popular_dishes": [
+      "Baja Fish Tacos",
+      "Carnitas Tacos",
+      "Octopus Tacos",
+      "Pollo Asado Tacos",
+      "Pulled Pork with Pineapple Sauce Taco",
+      "Tacos Dorados",
+      "Tuna Tacos",
+      "Shrimp Tacos"
+    ],
+    "experience": [
+      "Quick bites",
+      "Takeout available",
+      "No formal seating",
+      "Standing room only or takeout",
+      "Casual and cozy atmosphere",
+      "Often busy",
+      "Closed Tuesdays"
+    ],
+    "common_reviews": [
+      "Delicious and generously filled tacos",
+      "Fresh ingredients",
+      "Good value",
+      "Some mention issues with the uncovered condiments station"
+    ]
+  }
+]
