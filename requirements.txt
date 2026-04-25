@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pathlib
+python-dotenv
+pydantic
+openai
+pydantic_settings

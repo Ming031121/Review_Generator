@@ -19,9 +19,6 @@ def record_failure():
 def record_retrieval_failure():
     metrics["retrieval_failure_count"] += 1
 
-def record_total_time(latency:int):
-    metrics["total_latency_ms"] += latency
-
 def get_success_count():
     return metrics["success_count"]
 

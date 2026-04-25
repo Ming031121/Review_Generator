@@ -1,6 +1,8 @@
+from pathlib import Path
+DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "restaurants_info.json"
 import json
 
-with open("app/data/restaurants_info.json","r") as f:
+with open(DATA_PATH) as f:
     restaurant_db = json.load(f)
 
 def retrieve_context(restaurant_name: str):

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.env
+venv/
+.venv/
+.idea/
+.vscode/
+current_working.md
+direction.md
+tests/__pycache__/
