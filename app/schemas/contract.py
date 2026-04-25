@@ -1,4 +1,4 @@
-from xxlimited import Str
+from typing import Optional
 from pydantic import BaseModel
 
 class ReviewRequest(BaseModel):

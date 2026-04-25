@@ -1,5 +1,5 @@
 from pathlib import Path
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "restaurants_info.json"
+DATA_PATH = Path(__file__).resolve().parent.parent.parent / "data" / "restaurants_info.json"
 import json
 
 with open(DATA_PATH) as f:
